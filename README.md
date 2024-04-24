@@ -1,4 +1,4 @@
-Git指令1
+Git指令
 
 # 初始化一個新的 Git 儲存庫
     git init  
